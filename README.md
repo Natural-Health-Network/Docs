@@ -6,7 +6,7 @@ Natural Health Network - Delegated Proof of Stake Hybrid
 
 Delegated Proof of Stake (DPOS) is a cutting edge algorithm for securing a crypto-currencies blockchain. DPOS solves the problems of both Bitcoin's traditional Proof of Work system, and the Proof of Stake system of Peercoin and NXT. DPOS implements a layer of technological democracy to offset the negative effects of centralization.
 
-With NHN's Blockchain having three consensus protocols we can ensure the reliability and performance of the blockchain, NHN coin holders use their coin balances / 'selected amount' to elect delegates, called witnesses. These witnesses have the opportunity to stake blocks of new transactions and add them to the blockchain at the risk of losing all staked coins if caught cheating "See it as a security deposit". Voting power of the next block is determined by each node selecting another at random if the node has a reliability level of atleast 1. Once all votes have been cased and calculated the winner, becomes the block validator for the current round only. Block validators cannot be chosen twice in a row, and are excluded from the next vote. All previous blocks are validated over 11 000 blocks before the block validators funds become spendable. 
+With NHN's Blockchain having three consensus protocols we can ensure the reliability and performance of the blockchain, NHN coin holders use their coin balances / 'selected amount' to elect delegates, called witnesses. These witnesses have the opportunity to stake blocks of new transactions and add them to the blockchain at the risk of losing all staked coins if caught cheating "See it as a security deposit". Voting power of the next block is determined by each node selecting another at random if the node has a reliability level of atleast 1. Once all votes have been submitted and calculated the winner, becomes the block validator for the current round only. Block validators cannot be chosen twice in a row, and are excluded from the next vote. All previous blocks are validated over 1500 blocks before the block validators funds become spendable. 
 
 Witnesses & Validators work in sync to keep the blockchain secure by providing a decentralized network of witnesses that is scalable and reliable. 
 
@@ -42,7 +42,7 @@ Disincentives for Attacks
 
     - By choosing not to produce a block, a witness risks getting fired and they lose current stake and profits in the future.
     - A dishonest delegate would only fail to produce a block if they were sure to win something from it.
-    - Witnesses can't sign invalid blocks as the blocks are checked over 11 000 Blocks to ensure no fraudulent transactions pass. 
+    - Witnesses can't sign invalid blocks as the blocks are checked over 1500 Blocks to ensure no fraudulent transactions pass. 
     
     
     
